@@ -1,0 +1,8 @@
+streamlit>=1.40
+nltk
+scikit-learn
+pandas
+numpy
+deep-translator
+# opsional, hanya jika ENABLE_SBERT = True di app.py
+# sentence-transformers
